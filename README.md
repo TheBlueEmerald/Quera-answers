@@ -1,5 +1,8 @@
-| نام سوال | لینک جواب | لینک سوال |
-| --- | :---: | --- |
-| سیگماگیر | لینک جواب |  |
-|  |  |  |
-|  |  |  |
+| لینک جواب | نام سوال |
+| :---: | :---: |
+| جواب | [سودوکو](https://quera.org/problemset/9743) | 
+| جواب | [سودوکو](https://quera.org/problemset/9743) |
+| جواب | [سودوکو](https://quera.org/problemset/9743) |
+| جواب | [سودوکو](https://quera.org/problemset/9743) |
+| جواب | [سودوکو](https://quera.org/problemset/9743) |
+| جواب | [سودوکو](https://quera.org/problemset/9743) |
